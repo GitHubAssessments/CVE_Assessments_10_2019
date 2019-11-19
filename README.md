@@ -144,7 +144,7 @@ audacity.exe
 
 [!] Module WINSPOOL.DRV vulnerable (real path: C:\Windows\SysWOW64\WINSPOOL.DRV)
 
-[!] Module PROPSYS.dll vulnerable at (real path: C:\Windows\SysWOW64\PROPSYS.dll)
+[!] Module PROPSYS.dll vulnerable (real path: C:\Windows\SysWOW64\PROPSYS.dll)
 
 [!] Module IPHLPAPI.DLL (real path: C:\Windows\SysWOW64\IPHLPAPI.DLL)
 
