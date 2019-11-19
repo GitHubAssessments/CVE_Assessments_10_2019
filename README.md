@@ -6,7 +6,7 @@ Source: https://www.audacityteam.org/download/
 
 
 
-The initial identification of the DLL Hijacking vulnerability in the Audacity version 2.1.2 was indentified as well in the recent version 2.3.2.  
+The initial identification of the DLL Hijacking vulnerability in the Audacity version 2.1.2 was identified as well in the recent version 2.3.2.  
 
 
 
