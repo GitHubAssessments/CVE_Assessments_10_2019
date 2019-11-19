@@ -3,12 +3,15 @@
 Audacity for Windows Version 2.3.2
 Source: https://www.audacityteam.org/download/
 
+
 The initial identification of the DLL Hijacking vulnerability in the Audacity version 2.1.2 was indentified as well in the recent version 2.3.2.  
+
 
 Reference
 
 CVE-2017-1000010
 https://www.cvedetails.com/cve/CVE-2017-1000010/
+
 
 
 [*] Siofra version 1.13 has entered architecture mode Wow64
