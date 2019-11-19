@@ -1,10 +1,13 @@
 # CVE_Assessments_10_2019
 
 Audacity for Windows Version 2.3.2
+
 Source: https://www.audacityteam.org/download/
 
 
+
 The initial identification of the DLL Hijacking vulnerability in the Audacity version 2.1.2 was indentified as well in the recent version 2.3.2.  
+
 
 
 Reference:
